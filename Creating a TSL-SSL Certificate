@@ -1,9 +1,0 @@
-#Requesting a TLS/SSL Certificate
-A TLS/SSL certificate must be installed on the server where LSS will be installed. The certificate must be present before installing any LSS application software.
-To request a TLS/SSL certificate:
-1.	Enter help.lear.com in your browser to access Ivanti.
-2.	Search for TLS/SSL in the Service Catalog.
-3.	Click the TSL/SSL tile that is returned. 
-4.	Complete the TLS/SSL Certificate Request form as follows:
-5.	Click Review & Submit. 
-A confirmation will be sent to the certificate requestor when the certificate has been installed.
